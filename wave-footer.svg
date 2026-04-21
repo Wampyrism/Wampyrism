@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 200" preserveAspectRatio="none" width="1440" height="200">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0a0010"/>
+      <stop offset="50%" style="stop-color:#1a0033"/>
+      <stop offset="100%" style="stop-color:#0a0010"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Wave layer 1 -->
+  <path fill="#2d1b4e" opacity="0.4">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite" values="
+      M0,0 L0,64 C120,100 240,32 360,64 C480,96 600,32 720,64 C840,96 960,32 1080,64 C1200,96 1320,32 1440,64 L1440,0 Z;
+      M0,0 L0,80 C120,32 240,96 360,80 C480,32 600,96 720,80 C840,32 960,96 1080,80 C1200,32 1320,96 1440,80 L1440,0 Z;
+      M0,0 L0,64 C120,100 240,32 360,64 C480,96 600,32 720,64 C840,96 960,32 1080,64 C1200,96 1320,32 1440,64 L1440,0 Z
+    "/>
+  </path>
+
+  <!-- Wave layer 2 -->
+  <path fill="#7c4dff" opacity="0.2">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite" values="
+      M0,0 L0,40 C160,60 320,20 480,40 C640,60 800,20 960,40 C1120,60 1280,20 1440,40 L1440,0 Z;
+      M0,0 L0,50 C160,20 320,60 480,50 C640,20 800,60 960,50 C1120,20 1280,60 1440,50 L1440,0 Z;
+      M0,0 L0,40 C160,60 320,20 480,40 C640,60 800,20 960,40 C1120,60 1280,20 1440,40 L1440,0 Z
+    "/>
+  </path>
+
+  <!-- Wave layer 3 -->
+  <path fill="#ea80fc" opacity="0.15">
+    <animate attributeName="d" dur="4s" repeatCount="indefinite" values="
+      M0,0 L0,20 C200,30 400,10 600,20 C800,30 1000,10 1200,20 C1300,25 1380,15 1440,20 L1440,0 Z;
+      M0,0 L0,28 C200,10 400,30 600,28 C800,10 1000,30 1200,28 C1300,10 1380,28 1440,28 L1440,0 Z;
+      M0,0 L0,20 C200,30 400,10 600,20 C800,30 1000,10 1200,20 C1300,25 1380,15 1440,20 L1440,0 Z
+    "/>
+  </path>
+
+  <!-- Background fill below waves -->
+  <rect y="80" width="1440" height="120" fill="url(#grad)"/>
+</svg>
