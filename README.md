@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- Activity graph - purple theme -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wampyrism&bg_color=0d0d0d&color=b388ff&line=7c4dff&point=b388ff&area_color=1a1a2e&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wampyrism&bg_color=0d0d0d&color=b388ff&line=7c4dff&point=b388ff&area_color=0d0d0d&area=true&hide_border=true" width="95%"/>
 
 </div>
 
