@@ -1,10 +1,3 @@
-<div align="center">
-
-<!-- Animated wave header -->
-<img src="https://raw.githubusercontent.com/Wampyrism/Wampyrism/main/wave-header.svg" width="100%"/>
-
-</div>
-
 <!-- TCOAAL-style text box -->
 <div align="center">
 
