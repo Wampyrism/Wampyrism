@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- Animated wave header -->
-<img src="https://raw.githubusercontent.com/Wampyrism/Wampyrism/main/assets/wave-header.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Wampyrism/Wampyrism/main/wave-header.svg" width="100%"/>
 
 </div>
 
 <!-- TCOAAL-style text box -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Wampyrism/Wampyrism/main/assets/textbox.svg" width="600"/>
+<img src="https://raw.githubusercontent.com/Wampyrism/Wampyrism/main/textbox.svg" width="600"/>
 
 </div>
 
@@ -34,7 +34,7 @@
 <div align="center">
 
 <!-- Animated wave footer -->
-<img src="https://raw.githubusercontent.com/Wampyrism/Wampyrism/main/assets/wave-footer.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Wampyrism/Wampyrism/main/wave-footer.svg" width="100%"/>
 
 <sub>hiii</sub>
 
