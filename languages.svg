@@ -27,7 +27,7 @@
   <text x="275" y="32" font-family="Faustina, Georgia, serif" font-size="15" font-weight="700" fill="#e0d8cc" text-anchor="middle">Languages</text>
 
   <!-- Dialogue text - purple, centered, in quotes -->
-  <text x="275" y="58" font-family="Faustina, Georgia, serif" font-size="14" fill="#b388ff" text-anchor="middle">&quot;Python, JavaScript, etc.&quot;</text>
+  <text x="275" y="58" font-family="Faustina, Georgia, serif" font-size="14" fill="#b388ff" text-anchor="middle">&quot;Python, Java, JS, HTML&quot;</text>
 
   <!-- Down triangle - below the box, centered -->
   <polygon points="270,92 275,100 280,92" fill="#e0d8cc" opacity="0.6"/>
