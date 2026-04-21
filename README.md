@@ -7,6 +7,13 @@
 
 <div align="center">
 
+<!-- Profile view counter -->
+<img src="https://komarev.com/ghpvc/?username=Wampyrism&label=Times%20given%20attention&color=b388ff&style=flat-square&base=0" alt="Profile views"/>
+
+</div>
+
+<div align="center">
+
 <!-- Activity graph - purple theme -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wampyrism&bg_color=0d0d0d&color=b388ff&line=7c4dff&point=b388ff&area_color=0d0d0d&area=true&hide_border=true" width="95%"/>
 
