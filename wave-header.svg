@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" preserveAspectRatio="none" width="1440" height="320">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Faustina:wght@700&amp;display=swap');
+    </style>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0010"/>
+      <stop offset="50%" style="stop-color:#1a0033"/>
+      <stop offset="100%" style="stop-color:#0a0010"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1440" height="320" fill="url(#grad)"/>
+
+  <!-- Title text -->
+  <text x="720" y="130" font-family="'Faustina', serif" font-size="72" font-weight="700" fill="#b388ff" text-anchor="middle" letter-spacing="4">Wampyrism</text>
+
+  <!-- Wave layer 1 (back, slower) -->
+  <path fill="#2d1b4e" opacity="0.4">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite" values="
+      M0,224 C120,180 240,260 360,224 C480,188 600,260 720,224 C840,188 960,260 1080,224 C1200,188 1320,260 1440,224 L1440,320 L0,320 Z;
+      M0,240 C120,260 240,188 360,240 C480,260 600,188 720,240 C840,260 960,188 1080,240 C1200,260 1320,188 1440,240 L1440,320 L0,320 Z;
+      M0,224 C120,180 240,260 360,224 C480,188 600,260 720,224 C840,188 960,260 1080,224 C1200,188 1320,260 1440,224 L1440,320 L0,320 Z
+    "/>
+  </path>
+
+  <!-- Wave layer 2 (mid) -->
+  <path fill="#7c4dff" opacity="0.2">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite" values="
+      M0,256 C160,230 320,280 480,256 C640,232 800,280 960,256 C1120,232 1280,280 1440,256 L1440,320 L0,320 Z;
+      M0,270 C160,280 320,232 480,270 C640,280 800,232 960,270 C1120,280 1280,232 1440,270 L1440,320 L0,320 Z;
+      M0,256 C160,230 320,280 480,256 C640,232 800,280 960,256 C1120,232 1280,280 1440,256 L1440,320 L0,320 Z
+    "/>
+  </path>
+
+  <!-- Wave layer 3 (front, fastest) -->
+  <path fill="#ea80fc" opacity="0.15">
+    <animate attributeName="d" dur="4s" repeatCount="indefinite" values="
+      M0,288 C200,270 400,300 600,288 C800,276 1000,300 1200,288 C1300,282 1380,296 1440,288 L1440,320 L0,320 Z;
+      M0,296 C200,300 400,276 600,296 C800,300 1000,276 1200,296 C1300,300 1380,280 1440,296 L1440,320 L0,320 Z;
+      M0,288 C200,270 400,300 600,288 C800,276 1000,300 1200,288 C1300,282 1380,296 1440,288 L1440,320 L0,320 Z
+    "/>
+  </path>
+</svg>
