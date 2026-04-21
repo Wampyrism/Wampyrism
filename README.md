@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- Profile view counter -->
-<img src="https://komarev.com/ghpvc/?username=Wampyrism&label=Times%20Given%20Attention&color=b388ff&style=flat-square&base=0&labelColor=0d0d0d" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Wampyrism&label=Times+given+attention&color=b388ff&style=for-the-badge&base=0&labelColor=000000" alt="Profile views"/>
 
 </div>
 
@@ -26,6 +26,30 @@
 <!-- Stats in purple theme -->
 <img src="https://github-readme-stats.vercel.app/api?username=Wampyrism&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=b388ff&text_color=b388ff&icon_color=b388ff&border_color=1e1e1e&hide_border=false" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wampyrism&layout=compact&theme=dark&bg_color=0d0d0d&title_color=b388ff&text_color=b388ff&border_color=1e1e1e&hide_border=false" height="165"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Wampyrism/Wampyrism/main/certs.svg" width="600"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Wampyrism/Wampyrism/main/languages.svg" width="600"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Wampyrism/Wampyrism/main/projects.svg" width="600"/>
 
 </div>
 
