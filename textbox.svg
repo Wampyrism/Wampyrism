@@ -24,7 +24,7 @@
   <rect x="5" y="5" width="540" height="80" rx="2" ry="2" fill="none" stroke="#3a3a3a" stroke-width="1"/>
 
   <!-- Name text - white, centered -->
-  <text x="275" y="32" font-family="'Faustina', Georgia, serif" font-size="15" font-weight="700" fill="#e0d8cc" text-anchor="middle">Wampyr</text>
+  <text x="275" y="32" font-family="'Faustina', Georgia, serif" font-size="15" font-weight="700" fill="#e0d8cc" text-anchor="middle">Wampyrism</text>
 
   <!-- Dialogue text - purple, centered, in quotes -->
   <text x="275" y="58" font-family="'Faustina', Georgia, serif" font-size="14" fill="#b388ff" text-anchor="middle">"Hello?"</text>
