@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- Profile view counter -->
-<img src="https://komarev.com/ghpvc/?username=Wampyrism&label=Times%20Given%20Attention&color=b388ff&style=flat-square&base=0&labelColor=000000" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Wampyrism&label=Times%20Given%20Attention&color=b388ff&style=flat-square&base=0&labelColor=000000](https://komarev.com/ghpvc/?username=Wampyrism&label=Times+given+attention&color=b388ff&style=for-the-badge&base=0&labelColor=000000" alt="Profile views"/>
 
 </div>
 
